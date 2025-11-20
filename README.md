@@ -6,22 +6,11 @@
 
 ---
 
-# Technologies
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
-
-
-
-
-
-
----
+[![My Skills - dark](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,mysql,mongodb,linux,windows,vscode,phpstorm,htmx,linkedin,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,mysql,mongodb,nodejs,linux,windows,git,github,vscode,phpstorm,htmx,linkedin,discord&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 # Software Used
 
-
- 
 - NetBeans 🟪  
 - StarUML ⭐  
 - HeidiSQL 🐘  
