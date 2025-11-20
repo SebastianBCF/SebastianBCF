@@ -35,4 +35,4 @@
 
 # Programming Languages Statistics
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastinBCF&layout=compact&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBCF&layout=compact&theme=dark)
