@@ -1,16 +1,38 @@
-## Hi there 👋
+# About Me
 
-<!--
-**SebastianBCF/SebastianBCF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I am a student at FOC institute, currently in my second year.
+- 💡 My main goal is to develop my skills as a Full Stack Developer, focusing on technologies like React, Node.js, and NoSQL databases.
+- 🇪🇸 I currently reside in Spain, but I would like to try my luck outside my country.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+---
+
+# Software Used
+
+
+ 
+- NetBeans 🟪  
+- StarUML ⭐  
+- HeidiSQL 🐘  
+- Visual Studio Code 🧩  
+- Oracle VirtualBox 🖥️  
+- SQLDeveloper 🗄️  
+- MongoDB 🍃
+
+
+---
+
+# Programming Languages Statistics
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastinBCF&layout=compact&theme=dark)
