@@ -13,7 +13,9 @@
     <img src="https://img.shields.io/badge/%40sebastian__cf9-6b0000?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Colombia%20->%20Espana-DAM%20%2B%20DAW-8b0000?style=for-the-badge&labelColor=000000" />
+  <a href="https://www.linkedin.com/in/sebastian-campos-fernandez-39051933a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sebastian%20Campos-8b0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
 </div>
 
 ---
