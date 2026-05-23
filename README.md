@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/%40sebastian__cf9-6b0000?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Colombia%20->%20Espana-DAM%20%2B%20DAW-5b0d8f?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Colombia%20->%20Espana-DAM%20%2B%20DAW-8b0000?style=for-the-badge&labelColor=000000" />
 </div>
 
 ---
@@ -96,7 +96,7 @@ const sebastian = {
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&hide_border=true&bg_color=0a0000&title_color=cc3333&icon_color=8b0000&text_color=ffffff&ring_color=5b0d8f&count_private=true" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&hide_border=true&bg_color=0a0000&title_color=cc3333&icon_color=8b0000&text_color=ffffff&ring_color=8b0000&count_private=true" />
 <img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&hide_border=true&background=0a0000&stroke=8b0000&ring=cc3333&fire=ff2222&currStreakLabel=cc3333&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
@@ -146,5 +146,5 @@ const sebastian = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:5b0d8f,50:6b0000,100:000000&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8b0000,50:6b0000,100:000000&height=150&section=footer" />
 </div>
