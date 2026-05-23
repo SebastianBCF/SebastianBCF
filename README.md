@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=780&lines=⚡+Full+Stack+Developer;🎯+Amante+del+código+limpio;🇨🇴+Colombiano+estudiando+en+España+🇪🇸;💜+El+código+es+mi+técnica+maldita;☕+Con+café+y+Java+no+hay+bug+que+pare;🚀+Buscando+oportunidades+a+nivel+global;🌙+DAM+%2B+DAW+%40+Instituto+FOC;🔥+React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+tecnica+maldita;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 </div>
 
 <br/>
