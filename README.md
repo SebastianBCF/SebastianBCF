@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0a1f,40:1a0a3e,70:e91e8c,100:ff6eb4&height=200&section=header&text=SebastianBCF&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full+Stack+Developer&descSize=18&descAlignY=62&descColor=ffb3d9" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0d0020,60:3d0066,100:6600cc&height=200&section=header&text=SebastianBCF&fontSize=55&fontColor=e0c3ff&animation=blinking&fontAlignY=45&desc=Full+Stack+Developer&descSize=18&descAlignY=68&descColor=b366ff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=E91E8C&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+arma;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=b366ff&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+arma;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SebastianBCF&style=for-the-badge&color=e91e8c&label=VISITAS&labelColor=0a0a1f" />
+  <img src="https://komarev.com/ghpvc/?username=SebastianBCF&style=for-the-badge&color=6600cc&label=VISITAS&labelColor=0d0020" />
   &nbsp;
   <a href="https://www.instagram.com/sebastian_cf9">
-    <img src="https://img.shields.io/badge/%40sebastian__cf9-e91e8c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a1f" />
+    <img src="https://img.shields.io/badge/%40sebastian__cf9-6600cc?style=for-the-badge&logo=instagram&logoColor=e0c3ff&labelColor=0d0020" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Colombia%20->%20Espana-DAM%20%2B%20DAW-e91e8c?style=for-the-badge&labelColor=0a0a1f" />
+  <img src="https://img.shields.io/badge/Colombia%20->%20Espana-DAM%20%2B%20DAW-6600cc?style=for-the-badge&labelColor=0d0020" />
 </div>
 
 ---
@@ -92,12 +92,12 @@ const sebastian = {
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&hide_border=true&bg_color=0a0a1f&title_color=e91e8c&icon_color=ff6eb4&text_color=ffffff&ring_color=e91e8c&count_private=true" />
-<img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&hide_border=true&background=0a0a1f&stroke=e91e8c&ring=ff6eb4&fire=e91e8c&currStreakLabel=ff6eb4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&hide_border=true&bg_color=0d0020&title_color=b366ff&icon_color=6600cc&text_color=e0c3ff&ring_color=6600cc&count_private=true" />
+<img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&hide_border=true&background=0d0020&stroke=6600cc&ring=b366ff&fire=6600cc&currStreakLabel=b366ff&sideLabels=e0c3ff&dates=e0c3ff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBCF&layout=compact&hide_border=true&bg_color=0a0a1f&title_color=e91e8c&text_color=ffffff&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBCF&layout=compact&hide_border=true&bg_color=0d0020&title_color=b366ff&text_color=e0c3ff&langs_count=8" />
 
 </div>
 
@@ -115,7 +115,7 @@ const sebastian = {
 
 <div align="center">
 
-[![Zampa](https://github-readme-stats.vercel.app/api/pin/?username=SebastianBCF&repo=zampa&hide_border=true&bg_color=0a0a1f&title_color=e91e8c&icon_color=ff6eb4&text_color=ffffff)](https://github.com/SebastianBCF/zampa)
+[![Zampa](https://github-readme-stats.vercel.app/api/pin/?username=SebastianBCF&repo=zampa&hide_border=true&bg_color=0d0020&title_color=b366ff&icon_color=6600cc&text_color=e0c3ff)](https://github.com/SebastianBCF/zampa)
 
 </div>
 
@@ -124,7 +124,7 @@ const sebastian = {
 ## 📈 Grafico de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianBCF&theme=tokyo-night&hide_border=true&bg_color=0a0a1f&color=e91e8c&line=ff6eb4&point=ffffff&area=true&area_color=e91e8c20" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianBCF&theme=tokyo-night&hide_border=true&bg_color=0d0020&color=b366ff&line=6600cc&point=e0c3ff&area=true&area_color=6600cc30" />
 </div>
 
 ---
@@ -142,5 +142,5 @@ const sebastian = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6eb4,50:e91e8c,100:0a0a1f&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6600cc,50:3d0066,100:000000&height=150&section=footer" />
 </div>
