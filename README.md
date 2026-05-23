@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=9999999&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=780&lines=SebastianBCF" alt="Name" />
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,100:1a0000&height=80&text=SebastianBCF&fontSize=42&fontColor=cc3333&fontAlignY=65&desc=&animation=fadeIn" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=cc3333&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+arma;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
-  <br/>
   <img src="./Itadori2.gif" width="100%" />
 </div>
 
