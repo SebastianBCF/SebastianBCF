@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00d9ff,100:7c3aed&height=200&section=header&text=SebastianBCF&fontSize=52&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20España%20🇪🇸&descSize=18&descAlignY=62&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00d9ff,100:7c3aed&height=200&section=header&text=SebastianBCF&fontSize=52&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20🇨🇴%20Colombiano%20estudiando%20en%20España%20🇪🇸&descSize=16&descAlignY=62&descColor=a78bfa" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-%40sebastian__cf9-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/España-DAM%20%2B%20DAW-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇨🇴%20Colombia-en%20España%20🇪🇸-7c3aed?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -29,6 +29,7 @@
 ```javascript
 const sebastian = {
   name    : "Sebastian BCF",
+  from    : "Colombia 🇨🇴",
   location: "España 🇪🇸",
   school  : "FOC · DAM + DAW",
   role    : "Full Stack Developer",
@@ -91,7 +92,7 @@ const sebastian = {
 <div align="center">
 
 <img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d9ff&count_private=true" />
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianBCF&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
+<img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br/>
 
