@@ -92,7 +92,7 @@ const sebastian = {
 <div align="center">
 
 <img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d9ff&count_private=true" />
-<img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" />
+
 
 <br/>
 
