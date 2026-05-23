@@ -90,12 +90,11 @@ const sebastian = {
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&hide_border=true&bg_color=0a0000&title_color=cc3333&icon_color=8b0000&text_color=ffffff&ring_color=8b0000&count_private=true" />
+
 <img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&hide_border=true&background=0a0000&stroke=8b0000&ring=cc3333&fire=ff2222&currStreakLabel=cc3333&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBCF&layout=compact&hide_border=true&bg_color=0a0000&title_color=cc3333&text_color=ffffff&langs_count=8" />
 
 </div>
 
