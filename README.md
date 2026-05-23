@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,100:1a0000&height=80&text=SebastianBCF&fontSize=42&fontColor=cc3333&fontAlignY=65&desc=&animation=fadeIn" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=cc3333&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+arma;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=cc3333&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
   <img src="./Itadori2.gif" width="100%" />
 </div>
 
@@ -92,12 +92,11 @@ const sebastian = {
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&hide_border=true&bg_color=0a0000&title_color=cc3333&icon_color=8b0000&text_color=ffffff&ring_color=8b0000&count_private=true" />
+
 <img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&hide_border=true&background=0a0000&stroke=8b0000&ring=cc3333&fire=ff2222&currStreakLabel=cc3333&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBCF&layout=compact&hide_border=true&bg_color=0a0000&title_color=cc3333&text_color=ffffff&langs_count=8" />
 
 </div>
 
