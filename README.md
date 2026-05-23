@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,35:1a0000,65:6b0000,100:5b0d8f&height=200&section=header&text=SebastianBCF&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=Full+Stack+Developer&descSize=18&descAlignY=68&descColor=cc3333" />
+  <img src="./Itadori_destello_negro.gif" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=cc3333&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+arma;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=780&lines=SebastianBCF" alt="Name" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=cc3333&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+arma;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -40,13 +44,7 @@ const sebastian = {
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
-
-<img src="./Itadori_destello_negro.gif" width="280" />
-
-</td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 ## 🎯 En que estoy
 
@@ -57,6 +55,10 @@ const sebastian = {
 - 🌍 Buscando **oportunidades globales**
 - 🎯 Obsesionado con el **codigo limpio**
 - ⚡ Fun fact: `git push` es mi superpoder
+
+</td>
+</tr>
+</table>
 
 ---
 
