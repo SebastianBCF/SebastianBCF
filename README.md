@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=E91E8C&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;El+codigo+es+mi+arma;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=E91E8C&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;Con+cafe+y+Java+no+hay+bug;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -92,12 +92,12 @@ const sebastian = {
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SebastianBCF&show_icons=true&hide_border=true&bg_color=0a0a1f&title_color=e91e8c&icon_color=ff6eb4&text_color=ffffff&ring_color=e91e8c&count_private=true" />
+
 <img height="165px" src="https://streak-stats.demolab.com/?user=SebastianBCF&hide_border=true&background=0a0a1f&stroke=e91e8c&ring=ff6eb4&fire=e91e8c&currStreakLabel=ff6eb4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBCF&layout=compact&hide_border=true&bg_color=0a0a1f&title_color=e91e8c&text_color=ffffff&langs_count=8" />
+
 
 </div>
 
