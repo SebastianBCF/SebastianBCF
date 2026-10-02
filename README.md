@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,100:1a0000&height=80&text=SebastianBCF&fontSize=42&fontColor=cc3333&fontAlignY=65&desc=&animation=fadeIn" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=cc3333&center=true&vCenter=true&width=780&lines=Full+Stack+Developer;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;Buscando+oportunidades+globales;DAM+%2B+DAW+%40+Instituto+FOC;React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=cc3333&center=true&vCenter=true&width=780&lines=Desarrollador+Web+Junior;Amante+del+codigo+limpio;Colombiano+estudiando+en+Espana;Buscando+pr%C3%A1cticas+y+primer+empleo;DAM+%2B+DAW+%40+Instituto+FOC;PHP+%7C+Laravel+%7C+JavaScript" alt="Typing SVG" />
   <img src="./Itadori2.gif" width="100%" />
 </div>
 
@@ -30,11 +30,12 @@
 const sebastian = {
   name    : "Sebastian BCF",
   from    : "Colombia",
-  location: "Espana",
+  location: "Granada, España",
   school  : "FOC - DAM + DAW",
-  role    : "Full Stack Developer",
+  role    : "Desarrollador Web Junior",
   loves   : "Codigo limpio",
-  stack   : ["React", "Node.js", "MongoDB"],
+  stack   : ["PHP", "Laravel", "JavaScript", "MySQL"],
+  learning: ["React", "Node.js"],
   status  : "Open to opportunities"
 };
 ```
@@ -44,11 +45,11 @@ const sebastian = {
 
 ## 🎯 En que estoy
 
-- 🔭 Desarrollando **Zampa**
-- 🌱 Dominando **React & Node.js**
+- 🔭 Hice **Zampa** en equipo, un SaaS para restaurantes con Laravel 12
+- 🌱 Aprendiendo **React & Node.js**
 - 💡 Explorando **MongoDB & NoSQL**
 - 🎓 **2 DAM/DAW** en el instituto FOC
-- 🌍 Buscando **oportunidades globales**
+- 🌍 Buscando **prácticas y primer empleo** (Granada o remoto)
 - 🎯 Obsesionado con el **codigo limpio**
 - ⚡ Fun fact: `git push` es mi superpoder
 
@@ -68,6 +69,12 @@ const sebastian = {
 
 <br/>
 
+**── Frameworks ──**
+
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,sass&theme=dark&perline=6" />
+
+<br/>
+
 **── Bases de Datos ──**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=6" />
@@ -76,7 +83,7 @@ const sebastian = {
 
 **── Herramientas ──**
 
-<img src="https://skillicons.dev/icons?i=vscode,linux,windows,git,github&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=vscode,linux,windows,git,github,docker&theme=dark&perline=6" />
 
 <br/>
 
@@ -114,7 +121,9 @@ const sebastian = {
 
 <div align="center">
 
-[![Zampa](https://github-readme-stats.vercel.app/api/pin/?username=SebastianBCF&repo=zampa&hide_border=true&bg_color=0a0000&title_color=cc3333&icon_color=8b0000&text_color=ffffff)](https://github.com/SebastianBCF/zampa)
+[![Zampa](https://github-readme-stats.vercel.app/api/pin/?username=BENJAMINDTS&repo=Zampa&hide_border=true&bg_color=0a0000&title_color=cc3333&icon_color=8b0000&text_color=ffffff)](https://github.com/BENJAMINDTS/Zampa)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SebastianBCF&repo=sebastian-portfolio&hide_border=true&bg_color=0a0000&title_color=cc3333&icon_color=8b0000&text_color=ffffff)](https://github.com/SebastianBCF/sebastian-portfolio)
 
 </div>
 
